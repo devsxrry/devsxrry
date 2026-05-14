@@ -1,18 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B2CFF&height=120&section=header"/>
+## 🟡 Pac-Man Contributions
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2800&pause=900&color=7B2CFF&center=true&vCenter=true&width=800&lines=%3C+Dev+Full+Stack+%2F%3E;Interfaces+modernas+e+sistemas+profissionais;Code%2C+Design+%26+Automação;Bem-vindo+ao+meu+universo+geek!" />
-
-<br><br>
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devsxrry/devsxrry/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devsxrry/devsxrry/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/devsxrry/devsxrry/output/pacman-contribution-graph.svg">
+</picture>
 
 </div>
-
----
-
-<div align="center">
 
 ## 👾 Sobre mim
 
